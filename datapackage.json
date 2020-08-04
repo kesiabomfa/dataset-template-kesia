@@ -1,0 +1,44 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "data_package_letters_kesia",
+      "path": "https://raw.githubusercontent.com/dados-mg/dataset-template/master/data/letters.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "number",
+            "format": "default",
+            "title": "Id",
+            "description": "Quantidade de linhas"
+          },
+          {
+            "name": "letter",
+            "type": "string",
+            "format": "default",
+            "title": "letters",
+            "description": "Lista as consoantes e vogais do alfabeto"
+          },
+          {
+            "name": "vowel",
+            "type": "string",
+            "format": "default",
+            "title": "vowel",
+            "description": "Retorna resultados verdadeiros para consoantes e falsos para vogais"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "data_package_letters_kesia",
+  "title": "Data Package Letters Késia",
+  "description": "Lista as letras do alfabeto e retorna resultados verdadeiros para consoantes e falsos para vogais",
+  "contributors": [
+    {
+      "title": "Késia Bomfá",
+      "role": "author"
+    }
+  ]
+}
