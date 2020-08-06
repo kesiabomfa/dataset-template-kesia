@@ -8,7 +8,7 @@
       "schema": {
         "fields": [
           {
-            "name": "ID",
+            "name": "id",
             "type": "number",
             "format": "default",
             "title": "Id",
