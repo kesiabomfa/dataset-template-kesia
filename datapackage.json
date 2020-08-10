@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "data_package_letters_kesia",
-      "path": "https://raw.githubusercontent.com/dados-mg/dataset-template/master/data/letters.csv",
+      "path": "data/letters.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
