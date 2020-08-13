@@ -1,25 +1,24 @@
 {
-    "collab_server" : "",
-    "contents" : "",
-    "created" : 1597327003921.000,
-    "dirty" : false,
-    "encoding" : "UTF-8",
-    "folds" : "",
-    "hash" : "2676910619",
-    "id" : "7B49D93",
-    "lastKnownWriteTime" : 1597327077,
-    "last_content_update" : 1597327077102,
-    "path" : "~/GitHub/dataset-template-kesia/scripts/Clean.R",
-    "project_path" : "scripts/Clean.R",
-    "properties" : {
-        "cursorPosition" : "3,0",
-        "scrollLine" : "0"
+    "id": "7B49D93",
+    "path": "~/GitHub/dataset-template-kesia/scripts/Clean.R",
+    "project_path": "scripts/Clean.R",
+    "type": "r_source",
+    "hash": "3724691760",
+    "contents": "",
+    "dirty": false,
+    "created": 1597327003921.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "10,0",
+        "scrollLine": "0"
     },
-    "read_only" : false,
-    "read_only_alternatives" : [
-    ],
-    "relative_order" : 2,
-    "source_on_save" : false,
-    "source_window" : "",
-    "type" : "r_source"
+    "folds": "",
+    "lastKnownWriteTime": 1597328289,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1597328289797,
+    "read_only": false,
+    "read_only_alternatives": []
 }

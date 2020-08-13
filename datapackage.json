@@ -1,9 +1,9 @@
-{
+﻿{
   "profile": "tabular-data-package",
   "resources": [
     {
       "name": "data_package_letters_kesia",
-      "path": "data/letters.csv",
+      "path": "data-raw/letters.xlsx",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -33,11 +33,11 @@
     }
   ],
   "name": "data_package_letters_kesia",
-  "title": "Data Package Letters Késia",
+  "title": "Data Package Letters Kesia",
   "description": "Lista as letras do alfabeto e retorna resultados verdadeiros para consoantes e falsos para vogais",
   "contributors": [
     {
-      "title": "Késia Bomfá",
+      "title": "Kesia Bomfa",
       "role": "author"
     }
   ]

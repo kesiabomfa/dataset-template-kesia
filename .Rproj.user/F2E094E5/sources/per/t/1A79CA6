@@ -1,25 +1,24 @@
 {
-    "collab_server" : "",
-    "contents" : "",
-    "created" : 1597069644072.000,
-    "dirty" : false,
-    "encoding" : "UTF-8",
-    "folds" : "",
-    "hash" : "2208671889",
-    "id" : "1A79CA6",
-    "lastKnownWriteTime" : 1597069681,
-    "last_content_update" : 1597069681269,
-    "path" : "~/GitHub/dataset-template-kesia/.gitinore.txt",
-    "project_path" : ".gitinore.txt",
-    "properties" : {
-        "cursorPosition" : "4,10",
-        "scrollLine" : "0"
+    "id": "1A79CA6",
+    "path": "~/GitHub/dataset-template-kesia/.gitinore.txt",
+    "project_path": ".gitinore.txt",
+    "type": "text",
+    "hash": "2208671889",
+    "contents": "",
+    "dirty": false,
+    "created": 1597069644072.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "4,10",
+        "scrollLine": "0"
     },
-    "read_only" : false,
-    "read_only_alternatives" : [
-    ],
-    "relative_order" : 1,
-    "source_on_save" : false,
-    "source_window" : "",
-    "type" : "text"
+    "folds": "",
+    "lastKnownWriteTime": 1597069681,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1597069681269,
+    "read_only": false,
+    "read_only_alternatives": []
 }
