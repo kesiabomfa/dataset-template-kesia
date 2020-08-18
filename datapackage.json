@@ -2,7 +2,7 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "data_package_letters_kesia",
+      "name": "datapackage-letters",
       "path": "data-raw/letters.xlsx",
       "profile": "tabular-data-resource",
       "schema": {
@@ -32,8 +32,8 @@
       }
     }
   ],
-  "name": "data_package_letters_kesia",
-  "title": "Data Package Letters Kesia",
+  "name": "data-package-kesia",
+  "title": "DataPackage Letters",
   "description": "Lista as letras do alfabeto e retorna resultados verdadeiros para consoantes e falsos para vogais",
   "contributors": [
     {

@@ -1,9 +1,9 @@
 {
-    "path" : "~/GitHub/dataset-template-kesia/scripts",
-    "sortOrder" : [
+    "path": "~/GitHub/dataset-template-kesia/scripts",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
